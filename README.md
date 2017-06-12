@@ -1,0 +1,2 @@
+# *nginx* config file formatter
+
